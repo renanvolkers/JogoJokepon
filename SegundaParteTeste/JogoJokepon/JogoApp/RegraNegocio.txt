@@ -1,0 +1,8 @@
+﻿
+Regras De Negocio 
+
+Quando houver empate será reinicializado uma nova rodada com apenas os que empataram.
+Quando houver derrota para todos ao mesmo tempo, o jogo será reinicializado para uma nova rodada.Exemplo 3 jogadores e as opçoes forem pedra,papel, tesoura um anula o outro.
+Quano houver apenas um jogador automaticamente selecionara o computador(Super Shaydin) para jogar contra.
+Quantidade maxima jogadores 5
+Tamanho maximo nome jogadores 50
